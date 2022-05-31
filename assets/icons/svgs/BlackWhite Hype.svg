@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <clipPath id="clip-BlackWhite_Hype">
+      <rect width="500" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="BlackWhite_Hype" data-name="BlackWhite Hype" clip-path="url(#clip-BlackWhite_Hype)">
+    <g id="Hype_Symbol" data-name="Hype Symbol" transform="translate(53.148 45.107)" style="isolation: isolate">
+      <g id="Group_2" data-name="Group 2" transform="translate(162.997 -36.359) rotate(14)">
+        <g id="Path_2" data-name="Path 2" transform="translate(0 0)" fill="none">
+          <path d="M63.863,0,88.719,194.743,0,281.6Z" stroke="none"/>
+          <path d="M 61.65614318847656 45.90003967285156 L 13.80764770507813 256.8828430175781 L 80.27931213378906 191.8098449707031 L 61.65614318847656 45.90003967285156 M 63.86260986328125 0 L 88.71865844726563 194.743408203125 L 1.52587890625e-05 281.5952758789063 L 63.86260986328125 0 Z" stroke="none" fill="#111"/>
+        </g>
+        <g id="Path_6" data-name="Path 6" transform="translate(182.186 452.719) rotate(180)" fill="none">
+          <path d="M63.863,0,88.719,194.743,0,281.6Z" stroke="none"/>
+          <path d="M 61.65614318847656 45.90003967285156 L 13.80764770507813 256.8828430175781 L 80.27931213378906 191.8098449707031 L 61.65614318847656 45.90003967285156 M 63.86260986328125 0 L 88.71865844726563 194.743408203125 L 1.52587890625e-05 281.5952758789063 L 63.86260986328125 0 Z" stroke="none" fill="#111"/>
+        </g>
+      </g>
+      <g id="Path_7" data-name="Path 7" transform="translate(101.683 119.678)" fill="none">
+        <path d="M98.064,52.936l98.66,1.191L93.42,117.3H-7.164Z" stroke="none"/>
+        <path d="M 100.271858215332 60.9632568359375 L 21.24610900878906 109.3012390136719 L 91.16780853271484 109.3012390136719 L 168.8572998046875 61.79122924804688 L 100.271858215332 60.9632568359375 M 98.06373596191406 52.93600463867188 L 196.7240295410156 54.12703704833984 L 93.42010498046875 117.3012390136719 L -7.164291381835938 117.3012390136719 L 98.06373596191406 52.93600463867188 Z" stroke="none" fill="#111"/>
+      </g>
+    </g>
+  </g>
+</svg>
