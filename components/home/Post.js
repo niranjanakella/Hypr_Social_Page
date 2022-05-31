@@ -298,15 +298,15 @@ const Post = ({ post, postIndex }) => {
   );
 
   const Likes = () => (
-    <Text style={{ fontWeight: "600", marginStart: 15 }}>
+    <Text style={{ fontWeight: "600", marginStart: 15, color:'black' }}>
       {post.hypes} Hypes
     </Text>
   );
 
   const Caption = () => (
     <View style={{ flexDirection: "row", marginLeft: 15 }}>
-      <Text style={{ fontSize: 15, fontWeight: "700" }}>{post.user} </Text>
-      <Text style={{ marginTop: 2, fontSize: 15, fontWeight: "600" }}>
+      <Text style={{ fontSize: 15, fontWeight: "700", color:'black' }}>{post.user} </Text>
+      <Text style={{ marginTop: 2, fontSize: 15, fontWeight: "600", color:'black' }}>
         {post.caption}
       </Text>
     </View>
@@ -320,7 +320,7 @@ const Post = ({ post, postIndex }) => {
   const CommentSection = () => (
     <View style={{ marginLeft: 15 }}>
       {!!post.comments.length && (
-        <Text style={{ color: "#C0C0C0" }}>
+        <Text style={{ color: "#727272" }}>
           View {post.comments.length > 1 ? "all" : ""} {post.comments.length}{" "}
           {post.comments.length > 1 ? "comments" : "comment"}
         </Text>
@@ -335,8 +335,8 @@ const Post = ({ post, postIndex }) => {
           key={index}
           style={{ marginLeft: 15, flexDirection: "row", marginTop: 5 }}
         >
-          <Text style={{ fontWeight: "700" }}>{comment.user} </Text>
-          <Text>{comment.comment}</Text>
+          <Text style={{ fontWeight: "700", color:'black' }}>{comment.user} </Text>
+          <Text style={{ color:'black'}}>{comment.comment}</Text>
         </View>
       ))}
     </>

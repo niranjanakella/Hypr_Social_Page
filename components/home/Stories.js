@@ -106,7 +106,7 @@ const Stories = () => {
               <Fontisto name="plus-a" size={scale(25)} color={'black'} style={{alignSelf:'center'}} />
               </View>
             </LinearGradient> */}
-          <Text style={{alignSelf: 'center'}}>Add Story</Text>
+          <Text style={{alignSelf: 'center', color:'black'}}>Add Story</Text>
         </Pressable>
 
         {/* STORIES LIST */}
@@ -152,7 +152,7 @@ const Stories = () => {
               style={{
                 alignItems: 'center',
                 justifyContent: 'center',
-                marginLeft: 6,
+                marginLeft: 6, color:'black'
               }}
             >
               {story.user.length > 8
